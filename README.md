@@ -19,6 +19,8 @@ Explores trends and ethical implications in data visualization.
 - **Tools**: Python, Pandas, Matplotlib, Seaborn  
 [View GitHub Repo](https://github.com/hunterfernandez0831/Data-Visualization-and-Ethical-Analysis)
 
+---
+
 ###**Fair-AI-Hiring-Analysis**
 An analytical project investigating fairness in AI-based resume screening using Kaggle resume data, fairness metrics, and ethical guidelines.
  Tools & Techniques: Python (EDA, fairness metrics), Fairlearn or scikit-learn (for bias mitigation), Microsoft PowerPoint, Word Processor (for documentation)
